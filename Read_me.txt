@@ -24,4 +24,5 @@ This project uses a **Random Forest Classifier** to analyze global data. By inpu
 This project was born from a desire to move beyond "Tutorial Hell" and apply Machine Learning to my professional field: Geoscience. Using a global dataset of mineral occurrences, I built a Random Forest model to predict three specific ores(copper, gold, iron) based on geographic coordinates.
 
 ## Hurdles
-As a Geoscientist learning ML, the challenge wasn't just the math—it was the engineering. This project documents my transition from cloud-based research (Google Colab) to a functional, local Python environment (VS Code).
+As a Geoscientist learning ML, the challenge wasn't just the math but the engineering. This project documents my transition from cloud-based research (Google Colab) to a functional, local Python environment (VS Code).
+
